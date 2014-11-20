@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C78A1062-3E1F-4CCA-A769-D473BA02FC01</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PublicAutomationTester</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>20166A15E248D0872E5A1CBFA93A33CD88C8448E</key>
+		<string>github.com:joemasilotti/PublicAutomationTester.git</string>
+		<key>E2E5C00948AC86C71B322B5009334BBDE0052DB1</key>
+		<string>github.com:joemasilotti/PublicAutomation</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PublicAutomationTester.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>20166A15E248D0872E5A1CBFA93A33CD88C8448E</key>
+		<string>..</string>
+		<key>E2E5C00948AC86C71B322B5009334BBDE0052DB1</key>
+		<string>../../PublicAutomation</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:joemasilotti/PublicAutomationTester.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>20166A15E248D0872E5A1CBFA93A33CD88C8448E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2E5C00948AC86C71B322B5009334BBDE0052DB1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PublicAutomation</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>20166A15E248D0872E5A1CBFA93A33CD88C8448E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PublicAutomationTester</string>
+		</dict>
+	</array>
+</dict>
+</plist>
