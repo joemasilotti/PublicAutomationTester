@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  KIFTester
+//  PublicAutomationTester
 //
 //  Created by pivotal on 11/19/14.
 //  Copyright (c) 2014 pivotal. All rights reserved.
@@ -16,12 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (IBAction)buttonWasTapped:(id)sender {
+    [[[UIAlertView alloc] initWithTitle:@"Title"
+                                message:@"Button was tapped"
+                               delegate:nil
+                      cancelButtonTitle:@"Dismiss"
+                      otherButtonTitles:nil] show];
 }
 
 @end
