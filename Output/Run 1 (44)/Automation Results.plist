@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: UIATarget.localTarget().frontMostApp().mainWindow().elements().toString()</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:19Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: [object UIAElementArray]</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:19Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:20Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:20Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:21Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:21Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:22Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:22Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:23Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:23Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:24Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:24Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:25Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:25Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:26Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:26Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:27Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:27Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:28Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:28Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:29Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:29Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:30Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:30Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:31Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:31Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:32Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:32Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:33Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:33Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:34Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:34Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:35Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:35Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:36Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:36Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:37Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:37Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:38Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:38Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:40Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:40Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:40Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:40Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:42Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:42Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:43Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:43Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:44Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:44Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:45Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:45Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:46Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:46Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:47Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:47Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:48Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:48Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:49Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:49Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:50Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:50Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:51Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:51Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:52Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:52Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:53Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:53Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:54Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:54Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:55Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:55Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:56Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:56Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:57Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:57Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:58Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:58Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:59Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:56:59Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:00Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:00Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:01Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:01Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:02Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:02Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:03Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:03Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:04Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:04Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:05Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:05Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:06Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:06Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:07Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:07Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:08Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:08Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:10Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:10Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:11Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:11Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Stopped</string>
+			<key>Message</key>
+			<string>Script was stopped by the user</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:57:11Z</date>
+			<key>Type</key>
+			<integer>9</integer>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

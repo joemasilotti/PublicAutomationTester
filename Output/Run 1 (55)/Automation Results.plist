@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: target.frontMostApp().mainWindow().scrollViews()[0].webViews()[0].links()["GOOGLE"].url()</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:24Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: http://google.com/</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:24Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:25Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:25Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:26Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:26Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:27Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:27Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Stopped</string>
+			<key>Message</key>
+			<string>Script was stopped by the user</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T14:03:28Z</date>
+			<key>Type</key>
+			<integer>9</integer>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:45:57Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:45:57Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:45:58Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:45:58Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:45:59Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:45:59Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:00Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:00Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:01Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:01Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:02Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:02Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:03Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:03Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:04Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:04Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:05Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:46:05Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

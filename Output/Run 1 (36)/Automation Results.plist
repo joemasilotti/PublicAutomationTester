@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: UIATarget.localTarget().frontMostApp().mainWindow().logElementTree()</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:51:01Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>UIAWindow: rect:{{0, 0}, {375, 667}}</string>
+			<key>Screenshot</key>
+			<string>6CC6902D-63C9-47AE-BBAE-9F6ABD49A069</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:51:11Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAScrollView: rect:{{0, 44}, {375, 300}}</string>
+					<key>Screenshot</key>
+					<string>7580A122-2673-4E4D-BCFE-6D7574AA02AE</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T13:51:11Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAWebView: rect:{{0, 44}, {375, 300}}</string>
+							<key>Screenshot</key>
+							<string>7177D188-797F-4B80-A385-6A1044CCF5F0</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T13:51:11Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>LogType</key>
+									<string>Debug</string>
+									<key>Message</key>
+									<string>UIALink: name:GOOGLE value: rect:{{0, 0}, {375, 667}}</string>
+									<key>Screenshot</key>
+									<string>E68A96F2-8CEF-4526-ACFB-94DA2DAC299F</string>
+									<key>Timestamp</key>
+									<date>2014-11-25T13:51:11Z</date>
+									<key>Type</key>
+									<integer>0</integer>
+									<key>children</key>
+									<array/>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAImage: rect:{{368, 342}, {7, 2}}</string>
+							<key>Screenshot</key>
+							<string>69E4002D-FC67-4FBD-9C98-2BED6C13860B</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T13:51:11Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAImage: rect:{{372, 337}, {2, 7}}</string>
+							<key>Screenshot</key>
+							<string>6461F7E3-421A-4770-9111-A4BE0B511E1A</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T13:51:11Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAButton: name:BUTTON rect:{{0, 400}, {375, 44}}</string>
+					<key>Screenshot</key>
+					<string>F9485F83-1F91-4076-A0BD-D3280B61F93D</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T13:51:11Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIASlider: value:0% rect:{{0, 500}, {200, 22}}</string>
+					<key>Screenshot</key>
+					<string>AB000BEE-C7C5-4880-9F81-5EB33F07DFED</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T13:51:11Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array/>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:51:11Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>executing: </string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:51:23Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>got: nothing</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T13:51:23Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
