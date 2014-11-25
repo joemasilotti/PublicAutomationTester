@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>60338495-EDED-4B52-8A76-21FC36C1CA3B</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E2E5C00948AC86C71B322B5009334BBDE0052DB1</key>
+		<string>github.com:joemasilotti/PublicAutomation.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E2E5C00948AC86C71B322B5009334BBDE0052DB1</key>
+		<string>PublicAutomation/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:joemasilotti/PublicAutomation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E2E5C00948AC86C71B322B5009334BBDE0052DB1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2E5C00948AC86C71B322B5009334BBDE0052DB1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PublicAutomation</string>
+		</dict>
+	</array>
+</dict>
+</plist>

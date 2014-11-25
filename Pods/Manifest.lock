@@ -1,0 +1,14 @@
+PODS:
+  - PublicAutomation (0.2.3)
+
+DEPENDENCIES:
+  - PublicAutomation (from `../PublicAutomation`)
+
+EXTERNAL SOURCES:
+  PublicAutomation:
+    :path: ../PublicAutomation
+
+SPEC CHECKSUMS:
+  PublicAutomation: eb2904a5dd8599ca75bdc76fca7da7579a87669e
+
+COCOAPODS: 0.35.0.rc1

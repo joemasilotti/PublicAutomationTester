@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>inside</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T11:57:38Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>UIAWindow: rect:{{0, 0}, {375, 667}}</string>
+			<key>Screenshot</key>
+			<string>27E60B30-E268-4F0F-BC46-31F0342C2E73</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T11:57:41Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAScrollView: rect:{{0, 44}, {375, 300}}</string>
+					<key>Screenshot</key>
+					<string>19F22059-8A75-4A10-8BB3-9FCBC542D5C4</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:57:41Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAWebView: rect:{{0, 44}, {375, 300}}</string>
+							<key>Screenshot</key>
+							<string>68251D56-409F-466A-A243-A46B512EC225</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:57:41Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>LogType</key>
+									<string>Debug</string>
+									<key>Message</key>
+									<string>UIALink: name:GOOGLE value: rect:{{3, 47}, {26, 8}}</string>
+									<key>Screenshot</key>
+									<string>89EBB459-B07D-4AFC-A3F7-F80FC6EEF7DA</string>
+									<key>Timestamp</key>
+									<date>2014-11-25T11:57:41Z</date>
+									<key>Type</key>
+									<integer>0</integer>
+									<key>children</key>
+									<array>
+										<dict>
+											<key>LogType</key>
+											<string>Debug</string>
+											<key>Message</key>
+											<string>UIAStaticText: name:GOOGLE value: rect:{{3, 47}, {26, 8}}</string>
+											<key>Screenshot</key>
+											<string>777A21D7-2BDF-4605-89DB-1BA8DAE1E6C6</string>
+											<key>Timestamp</key>
+											<date>2014-11-25T11:57:41Z</date>
+											<key>Type</key>
+											<integer>0</integer>
+											<key>children</key>
+											<array/>
+										</dict>
+									</array>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAImage: rect:{{368, 342}, {7, 2}}</string>
+							<key>Screenshot</key>
+							<string>245366FF-A3DF-45FE-960F-22F49862B984</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:57:41Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAImage: rect:{{372, 337}, {2, 7}}</string>
+							<key>Screenshot</key>
+							<string>D0AD7269-2D76-45D9-BEB3-73E7A8DD2B53</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:57:41Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAButton: name:BUTTON rect:{{0, 400}, {375, 44}}</string>
+					<key>Screenshot</key>
+					<string>7DB14BA9-7DA7-4C4E-BE1D-366AD7FE52C4</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:57:41Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIASlider: value:0% rect:{{0, 500}, {200, 22}}</string>
+					<key>Screenshot</key>
+					<string>EAFF3861-6D8D-4B94-9A43-863E2002FDCA</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:57:41Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array/>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

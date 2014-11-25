@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>UIATarget: name:iPhone Simulator rect:{{0, 0}, {375, 667}}</string>
+			<key>Screenshot</key>
+			<string>E0F85593-8042-4129-AABC-AD986545CABB</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T03:06:21Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+			<key>children</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>target.frontMostApp().alert().buttons()[0].tap()</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T03:06:48Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>UIAWindow: rect:{{0, 0}, {375, 667}}</string>
+			<key>Screenshot</key>
+			<string>550B7D36-27DC-42F4-B31D-995AEA0068F8</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T11:56:50Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAScrollView: rect:{{0, 44}, {375, 300}}</string>
+					<key>Screenshot</key>
+					<string>A7217870-6B93-4821-B060-C0CAE712BC23</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:56:50Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAWebView: rect:{{0, 44}, {375, 300}}</string>
+							<key>Screenshot</key>
+							<string>E7FC1176-76A7-452D-865E-454A7C8134F4</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:56:50Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>LogType</key>
+									<string>Debug</string>
+									<key>Message</key>
+									<string>UIALink: name:GOOGLE value: rect:{{3, 47}, {26, 8}}</string>
+									<key>Screenshot</key>
+									<string>DB8DBC14-72E0-443C-9DD0-E70E007BE504</string>
+									<key>Timestamp</key>
+									<date>2014-11-25T11:56:50Z</date>
+									<key>Type</key>
+									<integer>0</integer>
+									<key>children</key>
+									<array>
+										<dict>
+											<key>LogType</key>
+											<string>Debug</string>
+											<key>Message</key>
+											<string>UIAStaticText: name:GOOGLE value: rect:{{3, 47}, {26, 8}}</string>
+											<key>Screenshot</key>
+											<string>7584D1E9-88D9-46A4-8745-A99896CDFD3E</string>
+											<key>Timestamp</key>
+											<date>2014-11-25T11:56:50Z</date>
+											<key>Type</key>
+											<integer>0</integer>
+											<key>children</key>
+											<array/>
+										</dict>
+									</array>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAImage: rect:{{368, 342}, {7, 2}}</string>
+							<key>Screenshot</key>
+							<string>8D2CD440-B512-4AF4-AC03-55CD7727F676</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:56:50Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAImage: rect:{{372, 337}, {2, 7}}</string>
+							<key>Screenshot</key>
+							<string>7311925C-74EC-40E7-8E25-7BCAAF237A9C</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:56:50Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAButton: name:BUTTON rect:{{0, 400}, {375, 44}}</string>
+					<key>Screenshot</key>
+					<string>7B794A20-E58A-4173-A48D-FAB1D3CE92BA</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:56:50Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIASlider: value:0% rect:{{0, 500}, {200, 22}}</string>
+					<key>Screenshot</key>
+					<string>F078936C-96B0-47B2-962F-2186E9D3B434</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:56:50Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array/>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

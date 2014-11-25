@@ -1,0 +1,6 @@
+#include "Pods-PublicAutomationTester-PublicAutomation.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/PublicAutomation" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/PublicAutomation"
+OTHER_CFLAGS = ${PODS_PUBLICAUTOMATIONTESTER_PUBLICAUTOMATION_OTHER_CFLAGS}
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}

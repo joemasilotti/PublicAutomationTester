@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>target.frontMostApp().alert().buttons()[0].tap()</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T11:15:42Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>UIATarget: name:iPhone Simulator rect:{{0, 0}, {375, 667}}</string>
+			<key>Screenshot</key>
+			<string>0B14B548-FD01-4668-A1FB-D3BA6A857810</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T11:16:11Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAApplication: name:PublicAutomationTester rect:{{0, 20}, {375, 647}}</string>
+					<key>Screenshot</key>
+					<string>9CCAB025-51E6-42FB-8062-732B095D4B43</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:16:11Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAWindow: rect:{{0, 0}, {375, 667}}</string>
+							<key>Screenshot</key>
+							<string>584812CE-2D3F-4F90-806D-5F8CCFEDCA0F</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:16:11Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>LogType</key>
+									<string>Debug</string>
+									<key>Message</key>
+									<string>UIAButton: name:BUTTON rect:{{0, 400}, {375, 44}}</string>
+									<key>Screenshot</key>
+									<string>DD6F2636-2E03-446B-85F2-A33BBFFA526D</string>
+									<key>Timestamp</key>
+									<date>2014-11-25T11:16:11Z</date>
+									<key>Type</key>
+									<integer>0</integer>
+									<key>children</key>
+									<array/>
+								</dict>
+								<dict>
+									<key>LogType</key>
+									<string>Debug</string>
+									<key>Message</key>
+									<string>UIASlider: value:0% rect:{{0, 500}, {200, 22}}</string>
+									<key>Screenshot</key>
+									<string>53F3E31F-3864-4059-9AAB-471B1C0CEEE1</string>
+									<key>Timestamp</key>
+									<date>2014-11-25T11:16:11Z</date>
+									<key>Type</key>
+									<integer>0</integer>
+									<key>children</key>
+									<array/>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAWindow: rect:{{0, 0}, {375, 667}}</string>
+							<key>Screenshot</key>
+							<string>07F9F57C-515C-4028-BD7A-31215BE4BE65</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:16:11Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAWindow: rect:{{0, 0}, {375, 667}}</string>
+							<key>Screenshot</key>
+							<string>ED39F0A9-7EFA-4567-8ED3-05FC2973B052</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:16:11Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>LogType</key>
+									<string>Debug</string>
+									<key>Message</key>
+									<string>UIAStatusBar: rect:{{0, 0}, {375, 20}}</string>
+									<key>Screenshot</key>
+									<string>FBF20CD5-159E-4D84-8258-A0FE73BD5E5E</string>
+									<key>Timestamp</key>
+									<date>2014-11-25T11:16:11Z</date>
+									<key>Type</key>
+									<integer>0</integer>
+									<key>children</key>
+									<array>
+										<dict>
+											<key>LogType</key>
+											<string>Debug</string>
+											<key>Message</key>
+											<string>UIAElement: name:Swipe down with three fingers to reveal the notification center., Swipe up with three fingers to reveal the control center, Double-tap to scroll to top rect:{{6, 0}, {38, 20}}</string>
+											<key>Screenshot</key>
+											<string>8FFD6DC4-E437-4F16-9265-6D59E56EB2E8</string>
+											<key>Timestamp</key>
+											<date>2014-11-25T11:16:11Z</date>
+											<key>Type</key>
+											<integer>0</integer>
+											<key>children</key>
+											<array/>
+										</dict>
+										<dict>
+											<key>LogType</key>
+											<string>Debug</string>
+											<key>Message</key>
+											<string>UIAElement: name:3 of 3 Wi-Fi bars rect:{{49, 0}, {13, 20}}</string>
+											<key>Screenshot</key>
+											<string>9F4998A1-EDFC-46B6-A7AE-1D8C7A7DA1A1</string>
+											<key>Timestamp</key>
+											<date>2014-11-25T11:16:11Z</date>
+											<key>Type</key>
+											<integer>0</integer>
+											<key>children</key>
+											<array/>
+										</dict>
+										<dict>
+											<key>LogType</key>
+											<string>Debug</string>
+											<key>Message</key>
+											<string>UIAElement: name:6:16 AM rect:{{165, 0}, {45, 20}}</string>
+											<key>Screenshot</key>
+											<string>2EBC6ECE-9E19-46BE-9A76-15900A045F20</string>
+											<key>Timestamp</key>
+											<date>2014-11-25T11:16:11Z</date>
+											<key>Type</key>
+											<integer>0</integer>
+											<key>children</key>
+											<array/>
+										</dict>
+										<dict>
+											<key>LogType</key>
+											<string>Debug</string>
+											<key>Message</key>
+											<string>UIAElement: name:100% battery power rect:{{345, 0}, {25, 20}}</string>
+											<key>Screenshot</key>
+											<string>FCB15639-3FD7-48BC-B0F0-1E8240BE38D5</string>
+											<key>Timestamp</key>
+											<date>2014-11-25T11:16:11Z</date>
+											<key>Type</key>
+											<integer>0</integer>
+											<key>children</key>
+											<array/>
+										</dict>
+									</array>
+								</dict>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>

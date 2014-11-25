@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Samples</key>
+	<array>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>inside</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T11:59:38Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>LogType</key>
+			<string>Debug</string>
+			<key>Message</key>
+			<string>UIAWindow: rect:{{0, 0}, {375, 667}}</string>
+			<key>Screenshot</key>
+			<string>D05914EF-A449-48DE-B2BA-2C2074DA500E</string>
+			<key>Timestamp</key>
+			<date>2014-11-25T11:59:47Z</date>
+			<key>Type</key>
+			<integer>0</integer>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAScrollView: rect:{{0, 44}, {375, 300}}</string>
+					<key>Screenshot</key>
+					<string>8CA6F5D1-4122-4506-ADC0-5407FF16A67E</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:59:47Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAWebView: rect:{{0, 44}, {375, 300}}</string>
+							<key>Screenshot</key>
+							<string>55A142AA-104E-40C2-9549-D756DA4FE231</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:59:47Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>LogType</key>
+									<string>Debug</string>
+									<key>Message</key>
+									<string>UIALink: name:GOOGLE value: rect:{{0, 0}, {375, 667}}</string>
+									<key>Screenshot</key>
+									<string>B85A2C62-F13A-4A18-ADB2-7BDF3308D895</string>
+									<key>Timestamp</key>
+									<date>2014-11-25T11:59:47Z</date>
+									<key>Type</key>
+									<integer>0</integer>
+									<key>children</key>
+									<array/>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAImage: rect:{{368, 342}, {7, 2}}</string>
+							<key>Screenshot</key>
+							<string>8A1F120D-A642-44EA-8C11-12B73DC17496</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:59:47Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+						<dict>
+							<key>LogType</key>
+							<string>Debug</string>
+							<key>Message</key>
+							<string>UIAImage: rect:{{372, 337}, {2, 7}}</string>
+							<key>Screenshot</key>
+							<string>65593958-040D-465B-9602-8D41CD217007</string>
+							<key>Timestamp</key>
+							<date>2014-11-25T11:59:47Z</date>
+							<key>Type</key>
+							<integer>0</integer>
+							<key>children</key>
+							<array/>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIAButton: name:BUTTON rect:{{0, 400}, {375, 44}}</string>
+					<key>Screenshot</key>
+					<string>0E53E184-C771-4350-A186-DD375A5B1ED4</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:59:47Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array/>
+				</dict>
+				<dict>
+					<key>LogType</key>
+					<string>Debug</string>
+					<key>Message</key>
+					<string>UIASlider: value:0% rect:{{0, 500}, {200, 22}}</string>
+					<key>Screenshot</key>
+					<string>A19CA9D6-0CD9-40A6-BE1E-18BF21EA8113</string>
+					<key>Timestamp</key>
+					<date>2014-11-25T11:59:47Z</date>
+					<key>Type</key>
+					<integer>0</integer>
+					<key>children</key>
+					<array/>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
